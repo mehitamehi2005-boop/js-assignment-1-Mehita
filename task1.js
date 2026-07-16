@@ -1,5 +1,5 @@
 // Input variables
-const totalMoney = 1000;
+const totalTaka = 1000;
 const orangePriceKg = 400;
 const applePriceKg = 300;
 
@@ -7,6 +7,6 @@ const applePriceKg = 300;
 const totalCost = orangePriceKg + applePriceKg;
 
 // Calculate change to return
-const changeReturned = totalMoney - totalCost;
+const changeReturned = totalTaka - totalCost;
 
 console.log(changeReturned);
