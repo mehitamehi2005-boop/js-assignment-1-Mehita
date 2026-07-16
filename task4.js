@@ -1,8 +1,8 @@
 var res1 = isNaN('11');
 var res2 = isNaN(2 - 10);
 
-console.log(res1); // Output: false
-console.log(res2); // Output: false
+console.log(res1); 
+console.log(res2); 
 
 /*
 Explanation:
